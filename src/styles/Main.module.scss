@@ -1,0 +1,18 @@
+.Main {
+    width: 60rem;
+    padding-left: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(248, 242, 242);
+    color: rgb(15, 14, 14);
+
+    p {
+        font-size: 1.5rem;
+    }
+
+    li {
+        margin-bottom: 0.5rem;
+    }
+}

@@ -1,0 +1,17 @@
+.Sidenav{
+    width: 15rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(226, 240, 245);
+    color: rgb(63, 60, 60);
+    margin-left: 9.4rem;
+}
+
+.SidenavContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-start;
+}
